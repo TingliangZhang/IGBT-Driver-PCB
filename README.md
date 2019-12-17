@@ -162,3 +162,5 @@ V2.0更改：
 同时供电和DGND可以通过铺铜连接，一开始布线可以先不考虑
 
 Manufactured part search是个好东西。
+
+当有更改的时候，repour all即可
